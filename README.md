@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RrR2010
 - 👀 I’m interested in games, programing, 3D modelling, big data and artificial inteligence
-- 🌱 I’m currently learning C# (Unity3D), VBA and Blender
+- 🌱 I’m currently learning C# (Unity3D), Python, VBA and Blender
 - 📫 You can reach me by my e-mail: richard.rsmi@hotmail.com
 
 <!---
